@@ -17,7 +17,7 @@ tags: [javascript, datatype]
         let num3 = -20;
         let inf = Infinity;
         let mInf = -Infinity;
-        let nan = NaN; // not a number (수치연산이 실패했을 때의 결과 값으로 보통 사용)
+        let nan = NaN; // not a number(수치연산이 실패했을 때의 결과 값으로 보통 사용)
         ```
    - String
         ```javascript
@@ -33,7 +33,7 @@ tags: [javascript, datatype]
         ```
    - Null
         ```javascript
-        let empty = null; // 아무런 값도 담겨 있지 않음 (명시적으로 아무런 값이 없다고 선언)
+        let empty = null; // 아무런 값도 담겨 있지 않음(명시적으로 아무런 값이 없다고 선언)
         ```
    - Undefined
         ```javascript
