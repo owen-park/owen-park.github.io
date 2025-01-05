@@ -43,6 +43,6 @@ sitemap:
         ```
 2. 객체타입
    - Object
-      - Array
-      - Function
+      - Array : [링크](https://owen-park.github.io/posts/javascript-array/)
+      - Function : [링크](https://owen-park.github.io/posts/javascript-function/)
       - RegexExp
