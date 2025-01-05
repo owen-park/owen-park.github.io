@@ -1,5 +1,5 @@
 ---
-title: [Javascript] 자료형
+title: Javascript - 자료형
 description: >-
   원시타입, 객체타입
 author: owen
