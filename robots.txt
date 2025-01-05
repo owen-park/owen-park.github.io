@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://owen-park.github.io/sitemap.xml

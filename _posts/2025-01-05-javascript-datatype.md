@@ -6,6 +6,8 @@ author: owen
 date: 2025-01-05 13:00:00 +0900
 categories: [Javascript, Basic]
 tags: [javascript, datatype]
+sitemap: 
+    changefreq : daily
 ---
 
 ## Javascript 자료형
