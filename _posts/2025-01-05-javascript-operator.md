@@ -1,7 +1,7 @@
 ---
 title: Javascript - 연산자
 description: >-
-  대입, 산술, 복합대입, 증감, 논리, 비교 연산자
+  대입, 산술, 복합대입, 증감, 논리, 비교, null병합, typeof, 삼항 연산자
 author: owen
 date: 2025-01-05 16:00:00 +0900
 categories: [Javascript, Basic]
