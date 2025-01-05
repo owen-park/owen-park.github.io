@@ -11,7 +11,7 @@ sitemap:
 ---
 
 ## Javascript 배열
-1. 배열 생성
+- 배열 생성
 
    ```javascript
    let arrA = new Array(); // 배열 생성자
