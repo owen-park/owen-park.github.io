@@ -1,5 +1,5 @@
 ---
-title: Javascript - 단락 평가가
+title: Javascript - 단락 평가
 description: >-
   
 author: owen
